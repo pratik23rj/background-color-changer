@@ -1,0 +1,46 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    width: 40%;
+    margin: 150px auto;
+    text-align: center;
+    font-size: 1.2rem;
+    
+}
+
+lable{
+    font-weight: 900;
+}
+
+input[type=text], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline-color: #52525B;
+  }
+
+button{
+    margin-top: 10px;
+    background-color: #27272A;
+    color: white;
+    font-weight: 600;
+    padding: 0.75rem 1.25rem;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    border-radius: 0.75rem;
+}
+
+p{
+    text-align: center;
+    background-color: #F5F5F5;
+    width: fit-content;
+    margin: auto;
+    padding: 5px;
+    border-radius: .50rem;
+}
+
